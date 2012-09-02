@@ -1,0 +1,31 @@
+vttest-cur (2.7.20120603) unstable; urgency=low
+
+  * minor change to show if cursor goes to first column on IL/DL
+
+ -- Thomas E. Dickey <dickey@invisible-island.net>  Sun, 03 Jun 2012 12:55:59 -0400
+
+vttest-cur (2.7.20120506) unstable; urgency=low
+
+  * Add tests for DECLRMM left/right margin mode.
+  * Improve DECSCUSR/DECRQSS test.
+
+ -- Thomas E. Dickey <dickey@invisible-island.net>  Sun, 25 Mar 2012 15:23:22 -0400
+
+vttest-cur (2.7.20111210) unstable; urgency=low
+
+  * Add mouse tests for SGR 1006, 1015
+
+ -- Thomas E. Dickey <dickey@invisible-island.net>  Thu, 08 Dec 2011 20:24:31 -0500
+
+vttest-cur (2.7.20110705) unstable; urgency=low
+
+  * bug-fix for big-endian machines
+  * Add DECRQSS for VT520
+
+ -- Thomas E. Dickey <dickey@invisible-island.net>  Fri, 06 May 2011 15:12:07 -0400
+
+vttest-cur (2.7.20100830) unstable; urgency=low
+
+  * Add package scripts to upstream source, for test-builds.
+
+ -- Thomas E. Dickey <dickey@invisible-island.net>  Thu, 26 Aug 2010 04:45:46 -0400
